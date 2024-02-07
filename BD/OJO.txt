@@ -1,0 +1,2 @@
+
+La base de datos debe llamarse "universidad", y la tabla debe denominarse "curso". Asegúrate de verificar el puerto; por lo general, es el 3306 dependiendo de la configuración. No pongas una clave en la base de datos y verifica el usuario.
